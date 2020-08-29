@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Central Africa Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20190618T114145Z
+DESCRIPTION:Films showing on Day 1:\n*	Up\n*	Sound Of Music\n*	Courageous\n
+DTEND;TZID="W. Central Africa Standard Time":20190806T000000
+DTSTAMP:20190618T114146Z
+DTSTART;TZID="W. Central Africa Standard Time":20190805T180000
+LAST-MODIFIED:20190618T114145Z
+LOCATION:Brooklyn Bridge Park
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-gb:Day 1 - Brooklyn Outdoor Film Festival
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000306F69B0D125D501000000000000000
+	0100000000F85F4019524CB458D579066B8B321EA
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-gb"></SPAN><SPAN LANG
+	="en-us"><FONT FACE="Calibri">Films showing on Day 1:</FONT></SPAN></P>\n\
+	n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG
+	="en-us"><FONT FACE="Wingdings">&#167\;<FONT FACE="Courier New">&nbsp\;&nb
+	sp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></FONT></SPAN><SPAN LANG="en-us"></
+	SPAN><SPAN LANG="en-gb"></SPAN><SPAN LANG="en-gb"></SPAN><SPAN LANG="en-gb
+	"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">Up</FONT></SPAN><SPAN LA
+	NG="en-gb"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG=
+	"en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Wi
+	ngdings">&#167\;<FONT FACE="Courier New">&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp
+	\;&nbsp\;</FONT></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-gb"
+	></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">Sound Of Music</FONT></SP
+	AN><SPAN LANG="en-gb"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FO
+	NT FACE="Wingdings">&#167\;<FONT FACE="Courier New">&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\;&nbsp\;&nbsp\;</FONT></FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN L
+	ANG="en-gb"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">Courageous</FO
+	NT></SPAN><SPAN LANG="en-gb"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n</BO
+	DY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
